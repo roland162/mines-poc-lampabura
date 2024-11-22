@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "firsttris.vscode-jest-runner",
+    "stivo.tailwind-fold",
+    "bradlc.vscode-tailwindcss",
+    "heybourn.headwind",
+  ]
+}
